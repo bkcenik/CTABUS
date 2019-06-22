@@ -34,7 +34,7 @@ Workflow:
 Challenges:
 
 * while the idea behind the app was fairly simple, there were several challenges we encountered:
-    * bootstrap incompatibility with flask
+    * ~bootstrap incompatibility with flask~ fixed
     * building the query string by looping through stops
     * hosting on flask
 
